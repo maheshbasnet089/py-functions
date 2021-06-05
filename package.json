@@ -1,5 +1,5 @@
 {
-  "name": "py-function",
+  "name": "py-functions",
   "version": "1.0.1",
   "description": "Implementations of python functions in Javascript",
   "main": "index.js",
