@@ -1,6 +1,6 @@
 {
   "name": "py-function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementations of python functions in Javascript",
   "main": "index.js",
   "scripts": {
