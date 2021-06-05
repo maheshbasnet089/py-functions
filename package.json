@@ -1,0 +1,22 @@
+{
+  "name": "py-function",
+  "version": "1.0.0",
+  "description": "Implementations of python functions in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishbasnet089/collections-js.git"
+  },
+  "keywords": [
+    "collections-js"
+  ],
+  "author": "Manish Basnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishbasnet089/collections-js/issues"
+  },
+  "homepage": "https://github.com/manishbasnet089/collections-js#readme"
+}

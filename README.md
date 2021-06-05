@@ -1,16 +1,16 @@
 
 
-# collections-js
+# py-function
 This package contains JavaScript implementations of common python functions. 
 
 ## Installation 
 ````
-npm i collections-js
+npm i py-function
 ````
 
 ## Usage
 ````javascript
-const {shuffle,randint,range,counter,reversestring} = require('collections-js')
+const {shuffle,randint,range,counter,reversestring} = require('py-function')
 ````
 ### shuffle
   It is the implementation of python suffle function. It generates new array by shuffling it .
@@ -32,7 +32,7 @@ It is the similar implementation of python range function . The range() function
 The elements in the array when given to the counter will be converted to a hashtable objects wherein the elements will become keys and the values will be the count of the elements from the array given.It holds the count of each of the elements present in the array.
   ````javascript
     counter(array)
-    const {counter} = require('collections-js')
+    const {counter} = require('py-function')
     list1 = ['x','y','z','x','x','x','y','z']
     console.log(counter(list1))
     Output:
